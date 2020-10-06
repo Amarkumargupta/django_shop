@@ -1,1 +1,1 @@
-# django_shop_application
+# django_shop
